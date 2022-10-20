@@ -1,1 +1,2 @@
-print('Hello, world!')sosi
+# ok
+print('Hello, world!')
